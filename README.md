@@ -10,6 +10,7 @@ https://notetakersexpress.herokuapp.com/
 1. Get started
 2. Create and save notes
 3. Delete notes if necessary
+![Note Taker](https://user-images.githubusercontent.com/120420050/222140193-1d4fd8ac-ca38-483d-b020-2172b9f0d324.gif)
 
 ## Credits
 The uuid package was used to generate unique id's for the notes. You can view documentation, including installation instructions, here: https://www.npmjs.com/package/uuid.
